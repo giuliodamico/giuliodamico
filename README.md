@@ -1,7 +1,9 @@
-### Ciao, sono Giulio 👋
+### Hi, I'm Giulio 👋
 
 🎓 Master's student in Data Science @ LUISS Rome — background in economics e accounting consulting
+
 🔬 Actually working on master thesis
+
 🏔️ Endurance athlete — cyclist, gravel, triathlon — with an increasing interest in sports data science
 
 ---
