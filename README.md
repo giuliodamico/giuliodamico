@@ -2,7 +2,7 @@
 
 **Recovering finance guy**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&pause=2000&color=10A37F&center=true&vCenter=true&width=500&lines=Ex+finance+consultant%2C+now+chasing+data.;CPM+by+day%2C+Python+by+night+(literally).;Currently+debugging+my+career+and+my+code.)](https://github.com/[tuo-username])
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&pause=2000&color=FFD700&center=true&vCenter=true&width=500&lines=Ex+finance+consultant%2C+now+chasing+data.;CPM+by+day%2C+Python+by+night+(literally).;Currently+debugging+my+career+and+my+code.)](https://github.com/[tuo-username])
 
 Former Corporate Performance Management consultant who spent two years optimizing other people's finance processes before deciding to optimize models instead.
 Now doing an MSc in Data Science & Management @ LUISS, trying to turn spreadsheet instincts into actual statistical intuition.
@@ -48,6 +48,6 @@ Currently very online about Python and quietly terrified of my first real ML pip
 
 ## 📬 I'll reply right after I finish "one more tutorial":
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([link-linkedin])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[tuo-username])
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[tua-email])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/giulio-damico/])
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[giuliodamico])
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[giuliodamico15@gmail.com])
