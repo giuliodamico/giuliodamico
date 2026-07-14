@@ -17,6 +17,6 @@
 **📫 Contatti**
 giuliodamico15@gmail.com
 
-![Giulio's stats](https://github-readme-stats.vercel.app/api?username=IL-TUO-USERNAME&show_icons=true&theme=default)
+![Giulio's stats](https://github-readme-stats.vercel.app/api?username=giuliodamico&show_icons=true&theme=default)
 
 ![Profile views](https://komarev.com/ghpvc/?username=giuliodamico)
