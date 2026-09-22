@@ -1,53 +1,60 @@
 # Giulio D'Amico
 
-**Recovering finance guy**
+<p align="center">
+  <a href="https://github.com/giuliodamico">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=FFD700&center=true&vCenter=true&width=600&lines=%24+git+checkout+-b+data-science;Software+Engineer+%40+Consob;From+P%26L+to+ML;Merging+finance+background+into+main" alt="Typing SVG" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=400&size=16&pause=2000&color=FFD700&center=true&vCenter=true&width=500&lines=Ex+finance+consultant%2C+now+chasing+data.;CPM+by+day%2C+Python+by+night+(literally).;Currently+debugging+my+career+and+my+code.)](https://github.com/[tuo-username])
+Finance guy who got curious about what happens *after* the numbers hit the report. Now I write the code that produces them.
 
-Former Corporate Performance Management consultant who spent two years optimizing other people's finance processes before deciding to optimize models instead.
-Now doing an MSc in Data Science & Management @ LUISS, trying to turn spreadsheet instincts into actual statistical intuition.
-Currently very online about Python and quietly terrified of my first real ML pipeline.
+```python
+class GiulioDAmico:
+    role = "Software Engineer @ Consob, Digital, Technology & Innovation"
+    studying = "MSc Data Science & Management @ Luiss Guido Carli"
+    previous_builds = {
+        "Horsa": "finance process optimization on CCH Tagetik Intelligent Platform",
+        "Deloitte": "accounting & bookkeeping, where every number has a backstory",
+    }
+    skills = ["software design", "machine learning", "AI"]
+    currently_training = [
+        "GNN explainability (MSc thesis)",
+        "knee MRI abnormality detection (Kaggle RSNA 2026)",
+    ]
 
----
+    def mission(self) -> str:
+        return "finance background + data science = better processes, better decisions"
+```
 
-## 🛠️ What I'm actually doing with my life
+## Experience
 
-- **Unlearning Excel muscle memory** — years of pivot tables taught me structure, now I'm teaching myself pandas so I stop typing `=VLOOKUP` in my sleep.
-- **Building a portfolio nobody asked for** — going from "I made a report for a client" to "I made a model that's probably overfit but I'm proud of it."
-- **Enjoying being a beginner again** — turns out changing career means becoming a junior on purpose. Humbling. Recommended.
+| Role | Company | Period |
+|---|---|---|
+| Software Engineer, Digital, Technology & Innovation | Consob | Oct 2026 - Mar 2027 |
+| Consultant, Corporate Performance Management (CCH Tagetik) | Horsa ABIC | Nov 2024 - Mar 2026 |
+| Financial Analyst, Accounting & Bookkeeping | Deloitte | Feb 2024 - Nov 2024 |
 
----
+## Education
 
-## 💻 Tech Stack
+- **MSc Data Science & Management**, Luiss Guido Carli, Rome (2025 - present) Expected: Distinction
+- **BSc Economics & Management**, Luiss Guido Carli, Rome (2019 - 2025), Upper Second-Class Honours
 
-*Some I use daily, some are still theoretical.*
+**Certifications:** CCH Tagetik Expert · Bloomberg Market Concepts · Google Analytics
+
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![CCH Tagetik](https://img.shields.io/badge/CCH_Tagetik-003057?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+## Contact
 
-## 🎓 Education
-
-- **MSc Data Science & Management** — LUISS Guido Carli, Rome
-- **BSc Economics and Management** — LUISS Guido Carli, Rome
-
----
-
-## 💼 Track record before the pivot
-
-- **Consultant, Corporate Performance Management** — Horsa ABIC *(CCH Tagetik Intelligent Platform)*
-- **Analyst, Accounting & Bookkeeping** — Deloitte Business Solution
-
----
-
-## 📬 I'll reply right after I finish "one more tutorial":
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/giulio-damico])
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giuliodamico)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[giuliodamico15@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giulio-damico/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giuliodamico15@gmail.com)
